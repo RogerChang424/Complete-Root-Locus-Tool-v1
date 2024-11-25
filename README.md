@@ -14,7 +14,7 @@
   - Please enter the factors in the format of coefficients in the corresponding csv files.
     - eg. s(s+2)(s^2+3)
       - csv format:
-        - s**2  s**1   1   (header)
+        -  s^2  s^1    1   (header)
         -    0     1   0   (s)
         -    0     1   2   (s+2)
         -    1     0   3   (s^2 + 3)
