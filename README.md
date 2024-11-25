@@ -12,7 +12,7 @@
     - feedback transfer function      = H(s)  = HN(s)/HD(s)
     - loop gain                       = GL(s) = G(s) * H(s) 
 
-  - Please enter the factors in the format of coefficients in the corresponding csv files.
+  - Please enter the 1 or 2 degree factors in the format of coefficients in the corresponding csv files.
     - eg. s(s+2)(s^2+3)
       - csv format:
         -    0     1   0   (s)
