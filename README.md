@@ -1,13 +1,13 @@
-#Complete-Root-Locus-Tool-v1 - An enhanced Python root locus plotting program featuring:
+# Complete-Root-Locus-Tool-v1 - An enhanced Python root locus plotting program featuring:
  - open loop poles and zeros
  - complete root locus plot for both K > 0 and k < 0
  - angles and intersection of asymptotes
  - candidates of breakaway points solved by d/ds(loop gain) = 0
  - marginally stable poles location with corresponding k's
 
-#user guide
+# user guide
 
-# Transfer Function Input:
+* Transfer Function Input:
  - forward transfer function       = G(s)  = GN(s)/GD(s)
  - feedback transfer function      = H(s)  = HN(s)/HD(s)
  - loop gain                       = GL(s) = G(s) * H(s) 
@@ -26,7 +26,7 @@ csv filename matching list:
   HN(s) => H(s)_nominator.csv
   HD(s) => H(s)_denominator.csv
 
-# preference settings: settings.csv
+* preference settings: settings.csv
 parameters:
   prec     = displayed decimal precision
   xRange   = displayed x-axis value range in both +/- direcitons. Set to -1 for automatically adjusting
