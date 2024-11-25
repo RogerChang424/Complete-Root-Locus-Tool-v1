@@ -1,4 +1,4 @@
-# Complete-Root-Locus-Tool-v1 - 
+# Complete-Root-Locus-Tool-v1 
 # An enhanced Python root locus plotting program featuring:
   - open loop poles and zeros
   - complete root locus plot for both K > 0 and k < 0
