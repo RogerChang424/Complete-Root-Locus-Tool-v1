@@ -9,12 +9,13 @@
 ![Complete_Root_Locus_tool_v1_2024_1126_011348](https://github.com/user-attachments/assets/4d15991c-911e-4911-bfb0-8e96e8da6499)
 
 # User guide
-  - Transfer Function Input:
+  - Transfer Function format:
     - forward transfer function       = G(s)  = GN(s)/GD(s)
     - feedback transfer function      = H(s)  = HN(s)/HD(s)
     - loop gain                       = GL(s) = G(s) * H(s) 
 
-  - Please enter the 1 or 2 degree factors in the format of coefficients in the corresponding csv files.
+  - Entering Coefficients
+    - Please enter the 1 or 2 degree factors in the format of coefficients in the corresponding csv files.
     - eg. s(s+2)(s^2+3)
       - csv format:
         -    0     1   0   (s)
@@ -27,7 +28,7 @@
     - HN(s) => H(s)_nominator.csv
     - HD(s) => H(s)_denominator.csv
 
-  - preference settings: settings.csv
+  - Preference settings: settings.csv
     - parameters:
     - prec     = displayed decimal precision
     - xRange   = displayed x-axis value range in both +/- direcitons. Set to -1 for automatically adjusting
