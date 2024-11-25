@@ -6,7 +6,7 @@
   - candidates of breakaway points solved by d/ds(loop gain) = 0
   - marginally stable poles location with corresponding k's
 
-# user guide
+# User guide
   - Transfer Function Input:
     - forward transfer function       = G(s)  = GN(s)/GD(s)
     - feedback transfer function      = H(s)  = HN(s)/HD(s)
