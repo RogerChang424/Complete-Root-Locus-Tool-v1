@@ -5,6 +5,8 @@
   - angles and intersection of asymptotes
   - candidates of breakaway points solved by d/ds(loop gain) = 0
   - marginally stable poles location with corresponding k's
+# demonstration
+![Complete_Root_Locus_tool_v1_2024_1126_011348](https://github.com/user-attachments/assets/4d15991c-911e-4911-bfb0-8e96e8da6499)
 
 # User guide
   - Transfer Function Input:
