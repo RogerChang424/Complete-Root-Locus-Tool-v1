@@ -1,7 +1,7 @@
 # Complete-Root-Locus-Tool-v1 
 # An enhanced Python root locus plotting program featuring:
   - open loop poles and zeros
-  - complete root locus plot for both K > 0 and k < 0
+  - complete root locus plot for both k > 0 and k < 0
   - angles and intersection of asymptotes
   - candidates of breakaway points solved by d/ds(loop gain) = 0
   - marginally stable poles location with corresponding k's
