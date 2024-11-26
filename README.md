@@ -15,10 +15,14 @@
 
   - csv files :
     - Transfer function G(s) and H(s)
-      - G(s)_nominator.csv => GN(s)
-      - G(s)_denominator.csv => GD(s)
-      - H(s)_nominator.csv => HN(s)
-      - H(s)_denominator.csv => HD(s)
+      - G(s)_nominator.csv
+        - GN(s)
+      - G(s)_denominator.csv
+        - GD(s)
+      - H(s)_nominator.csv
+        - HN(s)
+      - H(s)_denominator.csv
+        - HD(s)
     - Preference Settings
       - settings.csv
         
