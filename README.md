@@ -9,6 +9,9 @@
 ![Complete_Root_Locus_tool_v1_2024_1126_011348](https://github.com/user-attachments/assets/4d15991c-911e-4911-bfb0-8e96e8da6499)
 
 # User guide
+  - Software
+    - Complete Root Locus tool.py (main)
+    - CompleteRL.py (calculation module)
   - Transfer Function format:
     - forward transfer function       = G(s)  = GN(s)/GD(s)
     - feedback transfer function      = H(s)  = HN(s)/HD(s)
