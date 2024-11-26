@@ -10,8 +10,10 @@
 
 # User guide
   - Software
-    - Complete Root Locus tool.py (main)
-    - CompleteRL.py (calculation module)
+    - Complete Root Locus tool.py
+      - main
+    - CompleteRL.py
+      - calculation module
 
   - csv files :
     - Transfer function G(s) and H(s)
